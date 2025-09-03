@@ -6,3 +6,4 @@ from . import models
 admin.site.register(models.CarCompany)
 admin.site.register(models.CEO)
 admin.site.register(models.CarModel)
+admin.site.register(models.CarDetails)
